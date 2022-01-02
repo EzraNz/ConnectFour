@@ -21,7 +21,7 @@ public class GameScreen extends Application {
     private final ArrayList<Integer> gameMoves = new ArrayList<>();
     Stage gameWindow;
     private MenuBar menuBar;
-    private TextArea textArea;
+//    private TextArea textArea;
     private GridPane gameLayout;
 
     @Override
